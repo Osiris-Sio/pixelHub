@@ -1,0 +1,27 @@
+# Fichiers d'environnement
+.env
+.env.*
+!.env.example
+
+# .NET / Compilation
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE & Éditeurs
+.vs/
+.vscode/
+.idea/
+*.swp
+*.*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

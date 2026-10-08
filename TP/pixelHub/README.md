@@ -5,6 +5,7 @@ Dépôt de départ du module *Nouveaux paradigmes de bases de données*. Une seu
 ## Démarrer
 
 ```bash
+cp .env.example .env          # ou Copy-Item sous PowerShell (si .env n'existe pas)
 docker compose up -d          # lance les 4 moteurs
 docker compose ps             # vérifier : 4 services "running"
 cd src/PixelHub.Api
