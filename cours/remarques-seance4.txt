@@ -1,0 +1,11 @@
+MCD : Modèle Conceptuel de Données (grâce à un dictionnaire de données :
+	- Associations
+	- entités
+	- 1 - n; 0 - n; ...
+
+
+Puis on passe au MLD : Modèle Logique de Données (ex: avec Looping) (les Associtiations devient des Relation; clés primaires et étrangères)
+
+
+(presque pas utilisé)
+ET enfin au MPD : Modèle Physique de Données (Les relations peuvent devenir des Entités)
